@@ -4,7 +4,6 @@ namespace MySeries.Classes
 {
     public class Serie : EntidadeBase
 	{
-		// Atributos
 		private Genero Genero { get; set; }
 		private string Titulo { get; set; }
 		private string Descricao { get; set; }
@@ -21,7 +20,6 @@ namespace MySeries.Classes
 			this.Ano = ano;
 			this.Excluido = false;
 		}
-
 		public override string ToString()
 		{
 			string retorno = "";
@@ -32,12 +30,10 @@ namespace MySeries.Classes
 			retorno += "Excluido: " + this.Excluido;
 			return retorno;
 		}
-
 		public string retornaTitulo()
 		{
 			return this.Titulo;
 		}
-
 		public int retornaId()
 		{
 			return this.Id;
