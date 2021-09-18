@@ -1,0 +1,16 @@
+C:\Users\AS-Informatica\Downloads\Coisas pra fazer\Curso .NET DIO\MySeries\MySeries\bin\Debug\net5.0\MySeries.exe
+C:\Users\AS-Informatica\Downloads\Coisas pra fazer\Curso .NET DIO\MySeries\MySeries\bin\Debug\net5.0\MySeries.deps.json
+C:\Users\AS-Informatica\Downloads\Coisas pra fazer\Curso .NET DIO\MySeries\MySeries\bin\Debug\net5.0\MySeries.runtimeconfig.json
+C:\Users\AS-Informatica\Downloads\Coisas pra fazer\Curso .NET DIO\MySeries\MySeries\bin\Debug\net5.0\MySeries.runtimeconfig.dev.json
+C:\Users\AS-Informatica\Downloads\Coisas pra fazer\Curso .NET DIO\MySeries\MySeries\bin\Debug\net5.0\MySeries.dll
+C:\Users\AS-Informatica\Downloads\Coisas pra fazer\Curso .NET DIO\MySeries\MySeries\bin\Debug\net5.0\ref\MySeries.dll
+C:\Users\AS-Informatica\Downloads\Coisas pra fazer\Curso .NET DIO\MySeries\MySeries\bin\Debug\net5.0\MySeries.pdb
+C:\Users\AS-Informatica\Downloads\Coisas pra fazer\Curso .NET DIO\MySeries\MySeries\obj\Debug\net5.0\MySeries.csprojAssemblyReference.cache
+C:\Users\AS-Informatica\Downloads\Coisas pra fazer\Curso .NET DIO\MySeries\MySeries\obj\Debug\net5.0\MySeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AS-Informatica\Downloads\Coisas pra fazer\Curso .NET DIO\MySeries\MySeries\obj\Debug\net5.0\MySeries.AssemblyInfoInputs.cache
+C:\Users\AS-Informatica\Downloads\Coisas pra fazer\Curso .NET DIO\MySeries\MySeries\obj\Debug\net5.0\MySeries.AssemblyInfo.cs
+C:\Users\AS-Informatica\Downloads\Coisas pra fazer\Curso .NET DIO\MySeries\MySeries\obj\Debug\net5.0\MySeries.csproj.CoreCompileInputs.cache
+C:\Users\AS-Informatica\Downloads\Coisas pra fazer\Curso .NET DIO\MySeries\MySeries\obj\Debug\net5.0\MySeries.dll
+C:\Users\AS-Informatica\Downloads\Coisas pra fazer\Curso .NET DIO\MySeries\MySeries\obj\Debug\net5.0\ref\MySeries.dll
+C:\Users\AS-Informatica\Downloads\Coisas pra fazer\Curso .NET DIO\MySeries\MySeries\obj\Debug\net5.0\MySeries.pdb
+C:\Users\AS-Informatica\Downloads\Coisas pra fazer\Curso .NET DIO\MySeries\MySeries\obj\Debug\net5.0\MySeries.genruntimeconfig.cache
